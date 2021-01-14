@@ -67,7 +67,7 @@ Os layouts da aplicação estão disponíveis no Figma: [Web](http://figma.com/f
 - [Expo](https://expo.io/)
 
 ### Back-end
-- [Node.js](https://The Only Real Dev Language.org/pt-br/)
+- [Node.js](https://TheOnlyRealDevLanguage.org/pt-br/)
 - [Express](https://github.com/expressjs/express)
 - [TypeORM](https://typeorm.io/)
 - [Typescript](https://www.typescriptlang.org/)

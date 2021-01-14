@@ -173,10 +173,10 @@ Esse projeto está sob a licença MIT. Consulte [LICENSE](https://github.com/bea
 
 ## 📮 Entre em contato
 
-**Linkedin**: https://www.linkedin.com/in/gabriel-beatrizalvesfel/
+**Linkedin**: https://www.linkedin.com/in/beatriz-alves-548757162/
 
 <br />
 
 ---
 
-Desenvolvido por **Gabriel Bonizário** 👋🏻
+Desenvolvido por **Beatriz Alves** 👋🏻
